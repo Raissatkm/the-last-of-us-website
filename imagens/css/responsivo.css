@@ -18,10 +18,10 @@
 }
 
 @media (max-width:425px){
-    .informacoes .log{
+    .informacoes .logo{
         max-width: 300px;
     }
-    .informacoes.descricao{
+    .informacoes .descricao{
         width: 100%;
     }
     .menu-lateral{

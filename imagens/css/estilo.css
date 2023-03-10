@@ -11,9 +11,7 @@ main::after{
     position: fixed;
     top: 0;
     left: 0;
-    background-color: linear-gradient(90deg,rgba(0, 0, 0, 1)
-    10%, rgba (0, 0, 0, 0.
-    05926120448179273)50%, rgba(0, 0, 0, 1) 90%);
+    background-color: linear-gradient(90deg,rgba(0, 0, 0, 1)10%, rgba(0, 0, 0, 0.05926120448179273)50%, rgba(0, 0, 0, 1) 90%);
     z-index: -1; 
 
 }
@@ -26,14 +24,14 @@ main::after{
 }
 
 
-.informacoes.log{
+.informacoes .logo{
     max-width: 350px;
     filter: invert(1);
     margin: 80px;
 
 }
 
-.informacoes.descricao{
+.informacoes .descricao{
     width: 49%;
     font-size: 24px;
     color: #fff;
